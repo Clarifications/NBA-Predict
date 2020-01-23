@@ -10,4 +10,6 @@ customHeaders = {
     'Accept-Encoding': 'gzip, deflate, br',
     'Accept-Language': 'en-US,en;q=0.9',
     'Referer': 'https://stats.nba.com/',
+    'x-nba-stats-origin': 'stats',
+    'x-nba-stats-token': 'true',
 }
